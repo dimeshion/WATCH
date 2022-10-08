@@ -148,8 +148,15 @@ body{
   text-align: center;
   font-size: 32px;
   line-height: 60px;
-  margin-bottom: 58px;
+  margin-bottom: 9px;
   font-weight: 400px;
+}
+
+.product-description-line{
+  text-align: center;
+  width: 180px;
+  height: 0px;
+  margin-bottom: 49px;
 }
 
 .product-descriprion{
